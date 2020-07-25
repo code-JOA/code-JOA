@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London;
-- 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London;
+- 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London.
+- 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London.
 - ⏳ I am constantly learning and keep myself updated with the latest technologies. 
-🌱 I’m currently learning dart to build flutter APPS and perhaps Django in the near future.
-- 🤔 My interests are Data Science, web development and design;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning dart to build flutter APPS and perhaps Django in the near future.
+- 🤔 My interests are Data Science, web development and design.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via josh_billion@yahoo.com to reach me.
 - 📝 See my [Resume]() to get more info.
 - 🎯Visit my [website](https://code-joa.github.io/My-Website/) 
@@ -88,3 +88,22 @@ Please feel free to clone projects and raise issues if you think something could
 <br/>
 Happy Coding!!
 
+### Connect with me
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:josh_billion@yahoo.com)
+
+
+### [My Website](https://code-joa.github.io/My-Website/)
+
+
+**Version Control:**  One and only GitHub :heart:
+
+
+
+(To get a assured reply in under 5 mins :wink:)
+
+
+
+
+### My Socials
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/code-JOA)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/joshua.owusuankomah/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/jay_rockerfella/)
