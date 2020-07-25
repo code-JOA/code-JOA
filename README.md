@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London;
 - 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London;
 - ⏳ I am constantly learning and keep myself updated with the latest technologies. 
+🌱 I’m currently learning dart to build flutter APPS and perhaps Django in the near future.
 - 🤔 My interests are Data Science, web development and design;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via josh_billion@yahoo.com to reach me.
@@ -76,4 +77,14 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 </p>
 </div>
+
+![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=code-JOA&show_icons=true&hide_border=true)
+
+<br/>
+
+You have finally discovered my Github profile!!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
 
