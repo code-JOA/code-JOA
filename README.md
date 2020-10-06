@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  -->
 <p>
   <em>
-    I'm a <b>junior Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from London, United Kingdom.
+    I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in London, United Kingdom.
   </em>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
  </p>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London.
-- 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London.
+<!-- - 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London. -->
 - ⏳ I am constantly learning and keep myself updated with the latest technologies.
 - 🌱 I’m currently learning dart to build flutter APPS and perhaps Django in the near future.
 - 🤔 My interests are Data Science, web development and design.
@@ -107,3 +107,10 @@ Happy Coding!!
 ### My Socials
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/code-JOA)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/facebook.png">](https://www.facebook.com/joshua.owusuankomah/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/jay_rockerfella/)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=code-JOA&style=flat-square)
+
+```python
+
+```
