@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 **Libraries & Tools:** AWS EC2, AWS S3, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
 
-**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Web Scraping and many more.
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
