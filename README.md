@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London.
-<!-- - 💼 I am also currently pursuing a Bachelor's degree in Business Administration in London. -->
+<!- 💼 > 
 - ⏳ I am constantly learning and keep myself updated with the latest technologies.
 - 🌱 I’m currently learning dart to build flutter APPS and perhaps Django in the near future.
 - 🤔 My interests are Data Science, web development and design.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 Please email via josh_billion@yahoo.com to reach me.
+- 📫 Please email me: [![Gmail Badge](https://img.shields.io/badge/-joshbillion1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joshbillion1@gmail.com)](mailto:joshbillion1@gmail.com)
 - 📝 See my [Resume](https://drive.google.com/file/d/1BmEwJceoMqr1hnv2irCSoEKxWHxM7oat/view?usp=sharing) to get more info.
 - 🎯Visit my [website](https://code-joa.github.io/My-Website/)
 
