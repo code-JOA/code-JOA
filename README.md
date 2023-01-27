@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 <em>
 
 
-- :e-mail: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-joshbillion1-?style=flat&logo=Gmail&logoColor=white&link=mailto:joshbillion1@gmail.com)](mailto:joshbillion1@gmail.com)
-
-
-
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I recently completed my Data Science studies at flatiron school in London.
