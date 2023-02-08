@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-### Currently learning and improving the below
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" al$
 
 
