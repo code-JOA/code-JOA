@@ -79,9 +79,6 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" al$
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-JOA&show_icons=true&locale=en&layout=compact" alt="code-JOA" /></p>
