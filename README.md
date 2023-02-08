@@ -79,6 +79,14 @@ Here are some ideas to get you started:
 </p>
 </div>
 
+### Currently learning and improving the below
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" al$
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-JOA&show_icons=true&locale=en&layout=compact" alt="code-JOA" /></p>
+
+
 ![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=code-JOA&show_icons=true&hide_border=true)
 
 <br/>
