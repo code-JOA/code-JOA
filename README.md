@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🤔 My interests are Data Science, web development and design.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email me: [![Gmail Badge](https://img.shields.io/badge/-joshbillion1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joshbillion1@gmail.com)](mailto:joshbillion1@gmail.com)
-- :chains: Connect to me on [!Linkedin Badge](https://img.shields.io/badge/-JoshuaOwusu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)
+- :chains: Connect to me on [![Linkedin Badge](https://img.shields.io/badge/-JoshuaOwusu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)
 - 📝 See my [Resume](https://drive.google.com/file/d/15U1c4zA6PKDrnbk3Hi4D3gJ7s0NB3IXa/view?usp=sharing) to get more info.
 
 <!-- 💼  🎯Visit my [website](https://code-joa.github.io/My-Website/) 💼 -->
