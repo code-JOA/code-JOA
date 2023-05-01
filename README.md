@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <em>
     I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>aspiring full stack developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> based in London, United Kingdom.
   </em>
-<!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" /> -->
 
 <img align="right" alt="gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
  
